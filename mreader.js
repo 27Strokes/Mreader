@@ -14,12 +14,6 @@
 // @grant        GM_unregisterMenuCommand
 // ==/UserScript==
 
-/*
-Development note:
-- To test against your local sample page, add an extra match in your editor manually:
-  // @match file:///Users/oydodo/Desktop/AppProject/MReader/sample/sample.htm
-  Do not keep it enabled when publishing.
-*/
 
 (function () {
   'use strict'
